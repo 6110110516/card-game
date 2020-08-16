@@ -1,9 +1,9 @@
 .card {
   display: inline-block;
   text-align: center;
-  width: 3em;
-  font-size: 2em;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 2em;
+  font-size: 1.5em;
+  box-shadow: 0 3px 6px 0 rgba(0,0,0,0.2);
   margin: 1em;
   user-select: none;
  }
@@ -12,3 +12,4 @@
   color: red;
   background: pink;
  }
+
